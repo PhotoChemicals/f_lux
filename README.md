@@ -1,4 +1,4 @@
-# f_lux
+# ƒLUX
 Arduino Light Meter
 
 This is an Arduino photo light meter project based on the Adafruit TSL2591 (https://www.adafruit.com/product/1980)
